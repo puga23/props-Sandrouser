@@ -1,0 +1,12 @@
+.btn{background-color: rgb(56, 148, 148);}
+.btn1{background-color: rgb(190, 40, 40) ;}
+.btn2{background-color: white ;}
+.btn3{background-color: aqua;
+}
+.pink{color: pink;
+text-shadow: 3px 3px gray;
+box-shadow: 3px 3px green;
+text-transform:uppercase;
+text-overflow: ellipsis;
+text
+}
