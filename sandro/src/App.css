@@ -1,3 +1,7 @@
+body {
+  background-color: black;
+}
+
 .header {
   display: flex;
   height: 58px;
@@ -13,4 +17,20 @@
 }
 .btn {
   display: flex;
+}
+.btn button {
+  height: 40px;
+  width: 100px;
+  border-radius: 50px;
+  margin-right: 15px;
+}
+.mix {
+  border: 1px solid orange;
+  background-color: white;
+  border-color: #ff4e50, #f9d423;
+}
+.mix1 {
+  background: linear-gradient(to right, #ff4e50, #f9d423);
+  border: none;
+  color: white;
 }

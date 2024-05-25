@@ -13,8 +13,8 @@ function Header() {
         <li>Team</li>
       </ul>
       <div className="btn">
-        <Button>contact sales</Button>
-        <Button>sing in</Button>
+        <Button color="mix">contact sales</Button>
+        <Button color="mix1">sing in</Button>
       </div>
     </div>
   );
