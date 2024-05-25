@@ -1,0 +1,16 @@
+.header {
+  display: flex;
+  height: 58px;
+  align-items: center;
+  justify-content: space-around;
+}
+.lists {
+  display: flex;
+  list-style-type: none;
+}
+.lists li {
+  margin-right: 40px;
+}
+.btn {
+  display: flex;
+}
